@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Equation Solver:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Equation_Solver_jar</output-path>
+    <root id="archive" name="Equation Solver.jar">
+      <element id="module-output" name="Equation Genie" />
+    </root>
+  </artifact>
+</component>
